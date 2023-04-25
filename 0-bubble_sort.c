@@ -1,4 +1,9 @@
 #include "sort.h"
+/**
+ * swap_ints - sort array lements from min to max value
+ * @b: array
+ * @a: array size
+ */
 void swap_ints(int *a, int *b)
 {
 	int tmp;
