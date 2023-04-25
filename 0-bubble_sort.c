@@ -2,9 +2,9 @@
 void swap_ints(int *a, int *b)
 {
 	int tmp;
-	tmp = *a;
-	*a = *b;
-	*b = tmp;
+		tmp = *a;
+		*a = *b;
+		*b = tmp;
 }
 /**
  * bubble_sort - sort array lements from min to max value
